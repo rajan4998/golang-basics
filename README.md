@@ -1,4 +1,4 @@
-# golang-basics
+# Golang Basics
 
 Basic concepts : Variable names
 
